@@ -10,11 +10,6 @@ public class Group {
         this.name = name;
     }
 
-    // public Group (String name, Employee[] members) {
-    //    this.name = name;
-    //   this.members = members;
-    //}
-
     public String getName() {
         return name;
     }
