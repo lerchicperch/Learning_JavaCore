@@ -30,7 +30,7 @@ public class Task {
         System.out.println();
         group2.printGroup();
         System.out.println();
-        //group3.printGroup();
+        group3.printGroup();
 
         group1.deleteMember(employee1);
         group2.deleteAll();
