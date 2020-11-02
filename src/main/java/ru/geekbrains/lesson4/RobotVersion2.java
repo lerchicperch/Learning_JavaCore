@@ -34,4 +34,5 @@ public class RobotVersion2 extends Participant implements Run, Jump, Swim, Fly {
     public int getMaxSwimResult() {
         return maxSwimResult;
     }
+
 }

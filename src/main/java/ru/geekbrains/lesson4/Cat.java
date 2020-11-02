@@ -20,4 +20,5 @@ public class Cat extends Participant implements Run, Jump {
     public int getMaxRunResult() {
         return maxRunResult;
     }
+
 }

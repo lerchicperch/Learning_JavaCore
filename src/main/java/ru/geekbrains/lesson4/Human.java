@@ -27,4 +27,5 @@ public class Human extends Participant implements Run, Jump, Swim {
     public int getMaxSwimResult() {
         return maxSwimResult;
     }
+
 }

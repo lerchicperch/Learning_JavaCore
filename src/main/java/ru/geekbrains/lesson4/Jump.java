@@ -4,4 +4,5 @@ public interface Jump {
 
     int getMaxJumpResult();
 
+
 }

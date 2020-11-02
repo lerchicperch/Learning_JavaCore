@@ -13,4 +13,5 @@ public class Robot extends Participant implements Run {
     public int getMaxRunResult() {
         return maxRunResult;
     }
+
 }

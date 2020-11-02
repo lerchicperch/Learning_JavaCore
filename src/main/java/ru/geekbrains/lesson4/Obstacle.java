@@ -13,4 +13,5 @@ public abstract class Obstacle {
     }
 
     public abstract boolean Pass(Participant participant);
+
 }

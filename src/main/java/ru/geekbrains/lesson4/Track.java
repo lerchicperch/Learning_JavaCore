@@ -25,4 +25,5 @@ public class Track extends Obstacle {
         }
         return false;
     }
+
 }

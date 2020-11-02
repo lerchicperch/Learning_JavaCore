@@ -4,4 +4,5 @@ public interface Run {
 
     int getMaxRunResult();
 
+
 }

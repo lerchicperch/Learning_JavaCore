@@ -24,5 +24,6 @@ public class Pool extends Obstacle {
             return result;
         }
         return false;
+
     }
 }

@@ -25,4 +25,5 @@ public class Wall extends Obstacle {
         }
         return false;
     }
+
 }

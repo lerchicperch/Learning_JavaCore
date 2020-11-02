@@ -19,6 +19,7 @@ public class Start {
                         new Abyss("Пропасть", 15),
                         new Track("Дорожка", 30)
                 }
+
         );
 
         competition.compete();

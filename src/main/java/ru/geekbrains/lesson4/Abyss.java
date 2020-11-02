@@ -24,5 +24,6 @@ public class Abyss extends Obstacle {
             return result;
         }
         return false;
+
     }
 }
