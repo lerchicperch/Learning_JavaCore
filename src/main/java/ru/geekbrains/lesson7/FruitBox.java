@@ -16,7 +16,6 @@ public class FruitBox <T extends Fruit> {
         if (list.size() == 0) {
             return 0;
         }
-
         double weight = 0;
         for (T fruit : list) {
             weight += fruit.getWeight();
