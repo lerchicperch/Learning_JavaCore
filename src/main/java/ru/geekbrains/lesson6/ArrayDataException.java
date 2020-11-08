@@ -1,4 +1,4 @@
-package ru.geekbrains.lesson5;
+package ru.geekbrains.lesson6;
 
 public class ArrayDataException extends Exception {
     private int index_i;

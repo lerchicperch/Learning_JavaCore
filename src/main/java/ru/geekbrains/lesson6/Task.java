@@ -1,6 +1,6 @@
-package ru.geekbrains.lesson5;
+package ru.geekbrains.lesson6;
 
-import static ru.geekbrains.lesson5.ArrayCheck.checkArray;
+import static ru.geekbrains.lesson6.ArrayCheck.checkArray;
 
 public class Task {
     public static void main(String[] args) throws ArraySizeException, ArrayDataException {
