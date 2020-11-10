@@ -4,7 +4,6 @@ public class Task2 {
 
     public static void main(String[] args) {
 
-        // second homework item
         Phonebook phonebook = new Phonebook();
 
         phonebook.add(2304578, "Ivanov");
